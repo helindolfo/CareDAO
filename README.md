@@ -5,7 +5,7 @@
 A **CareDAO** tem como missão criar uma rede descentralizada de suporte e cuidados para idosos, proporcionando soluções acessíveis e colaborativas em comunidades de pequeno e médio porte. Nosso objetivo é garantir que cada idoso receba a atenção e o cuidado que merece, independentemente da situação financeira ou disponibilidade familiar.
 
 ## Problema
-Com o envelhecimento acelerado da população mundial e a redução das famílias, muitos idosos acabam sem o suporte adequado. As casas de repouso estão cada vez mais lotadas e inacessíveis para uma parcela significativa da população. Pequenas cidades, como [nome da sua cidade], enfrentam uma escassez de infraestrutura para atender essa crescente demanda.
+Com o envelhecimento acelerado da população mundial e a redução das famílias, muitos idosos acabam sem o suporte adequado. As casas de repouso estão cada vez mais lotadas e inacessíveis para uma parcela significativa da população. Pequenas cidades, enfrentam uma escassez de infraestrutura para atender essa crescente demanda.
 
 ## Solução
 A **CareDAO** busca resolver esse problema ao:
