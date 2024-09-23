@@ -37,3 +37,22 @@ A tesouraria da **CareDAO** é responsável pela gestão dos recursos financeiro
 ### 2. **Programas de Incentivo**
 - Membros que participam ativamente da gestão e desenvolvimento da DAO serão recompensados com tokens de governança ou outras formas de incentivo, fortalecendo o engajamento e crescimento da comunidade.
 
+# Mecanismos de Financiamento da CareDAO
+
+## 1. Crowdfunding Descentralizado
+A CareDAO utilizará plataformas descentralizadas de crowdfunding, como Gitcoin e Juicebox, para arrecadar fundos para projetos específicos. Esses projetos serão propostos e votados pela comunidade.
+
+## 2. Doações Diretas em Criptomoedas
+A DAO aceitará doações diretas em criptomoedas como ETH, USDC e DAI. Doadores serão recompensados com tokens de governança **CARE**, proporcional ao valor doado.
+
+## 3. Staking com Recompensas
+Os membros poderão realizar staking de seus tokens **CARE** em um pool dedicado e receber recompensas em forma de uma porcentagem do tesouro da DAO. Isso incentiva a retenção de tokens e aumenta o engajamento da comunidade.
+
+## 4. Venda de NFTs Comemorativos
+A DAO lançará NFTs comemorativos representando marcos importantes. Os fundos arrecadados com a venda desses NFTs serão usados para financiar novos projetos e expandir as atividades da DAO.
+
+## 5. Emissão de Bonds (Títulos de Dívida)
+Para financiar grandes projetos, a CareDAO poderá emitir bonds (títulos de dívida), oferecendo um retorno fixo aos investidores após um período. Esses bonds serão geridos por contratos inteligentes.
+
+## 6. Mecanismo de Taxas em Transações de Tokens
+Cada transação de tokens **CARE** incluirá uma pequena taxa que será direcionada para o tesouro da DAO, gerando receita constante conforme o token é negociado no mercado.
